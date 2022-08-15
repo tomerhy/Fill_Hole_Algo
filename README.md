@@ -17,5 +17,6 @@ Set z in range 2 <= z <= 25
 Set e < 1e-4
 
 Example
-/Users/tomer.haryofi/Library/Developer/Xcode/DerivedData/HoleFillAlgo-buzebiqpablfmvbnhpncfroempha/Build/Products/Debug/HoleFillAlgo '/Users/tomer.haryofi/Downloads/HoleFillAlgo/HoleFillAlgo/images/Lenna.png' '/Users/tomer.haryofi/Downloads/HoleFillAlgo/HoleFillAlgo/images/Mask.png' 3  8
+/HoleFillAlgo '/Users/tomer.haryofi/Downloads/HoleFillAlgo/HoleFillAlgo/images/Lenna.png''/Users/tomer.haryofi/Downloads/HoleFillAlgo/HoleFillAlgo/images/Mask.png' 3  8
+
 
